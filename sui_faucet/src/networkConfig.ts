@@ -1,5 +1,3 @@
-//기본 세팅
-
 import { getFullnodeUrl } from "@mysten/sui/client";
 import { createNetworkConfig } from "@mysten/dapp-kit";
 
